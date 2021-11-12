@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicatMirzaev
-- 👀 I’m interested in software engineering
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Web Technologies
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me: nicatmirzoev111@gmail.com
