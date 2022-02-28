@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me: nicatmirzoev111@gmail.com
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=NicatMirzaev)
 
 <!---
 NicatMirzaev/NicatMirzaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
